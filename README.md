@@ -10,6 +10,7 @@ ___
 
 ##  [CONTACT]
 emilasheras.uni@gmail.com
+[<img align="left" alt="emilasheras | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />][twitter]
 
 ___
 
@@ -40,6 +41,9 @@ ___
 
 ___
 
-##  [GITHUB STATS]
+##  [STATS]
 
 <img align="left" alt="emilasheras's Github stats" src="https://github-readme-stats.vercel.app/api?username=emilasheras&show_icons=true&hide_border=true" />
+
+
+
