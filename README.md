@@ -37,3 +37,9 @@ ___
 ___
 
 ##  [INTRESTS]
+
+___
+
+##  [GITHUB STATS]
+
+<img align="left" alt="emilasheras's Github stats" src="https://github-readme-stats.emilasheras.vercel.app/api?username=emilasheras&show_icons=true&hide_border=true" />
