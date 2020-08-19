@@ -1,7 +1,6 @@
 ### Hi there, I'm Emiliano
 
 
-## Im Emiliano
 - 🔭 I’m currently working on ... developing my game dev and python knowledge.
 - 🌱 I’m currently learning ... python and C#.
 - 💬 Ask me about ... anything!
