@@ -9,9 +9,8 @@
 ___
 
 ##  [CONTACT]
-[<a href = "mailto: emilasheras.uni@gmail.com">]
-[<img align="left" alt="emilasheras | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />]
-[</a>]
+[<img align="left" alt="emilasheras | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" href = "mailto: emilasheras.uni@gmail.com" />]
+
 
 [<img align="left" alt="emilasheras | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="emilasheras | Linked-In" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />][linkedin]
