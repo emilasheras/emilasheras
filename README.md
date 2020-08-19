@@ -19,8 +19,7 @@ ___
 
 ##  [LANGUAGES]
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=glsl,hlsl,shaderlab)](https://github.com/emilasheras/github-readme-stats)
-I prefer working with C# or Python depending on the project and flexibility, but i know some of the basics in Java, HTML, PHP, CSS (and bootstrapping), JavaScript and C++. And also have seen a little of ajax, query's and databases.
+####  I prefer working with C# or Python depending on the project and flexibility, but i know some of the basics in Java, HTML, PHP, CSS (and bootstrapping), JavaScript and C++. And also have seen a little of ajax, query's and databases.
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/csharp.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />
@@ -29,6 +28,9 @@ I prefer working with C# or Python depending on the project and flexibility, but
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/css3.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/javascript.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/cplusplus.svg" />
+</br>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=glsl,hlsl,shaderlab)](https://github.com/emilasheras/github-readme-stats)
 
 ___
 
