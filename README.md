@@ -1,7 +1,6 @@
 #  Hi there, here's some info about me
 
 -  I'm 20 years' old student from Mendoza, Argentina
--  Studying now for a degree in computer science and software development
 -  Currently working on developing my game dev and programming knowledge in multiple languages
 -  Also: learning Python and C# as preferred languages
 -  Contact me and ask me anything!
@@ -23,9 +22,10 @@ ___
 ___
 
 ##  [EDUCATION]
-High school completed in Colegio Tomás Alva Edison Ps 113
-bachelor's degree in computer science with mentions in robotics and programming (2013-2018)
 
+✦  High school completed with a bachelor's degree in computer science with mentions in robotics and programming. (2013-2018)
+✦  Completed all my english courses at AMICANA with a degree. (2012-2018)
+✦  Im currently doing a degree in computer science and software development at Aconcaguas university. (2018-XXXX)
 
 ___
 
