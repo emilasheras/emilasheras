@@ -20,9 +20,15 @@ ___
 ##  [LANGUAGES]
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=glsl,hlsl,shaderlab)](https://github.com/emilasheras/github-readme-stats)
-I prefer working with C# or Python depending on the project and flexibility, but i also know the basics in Java, HTML, PHP, CSS (and bootstrapping), JavaScript and C++.
+I prefer working with C# or Python depending on the project and flexibility, but i know some of the basics in Java, HTML, PHP, CSS (and bootstrapping), JavaScript and C++. And also have seen a little of ajax, query's and databases.
 
 [<img align="left" alt="emilasheras | csharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/csharp.svg" />
+[<img align="left" alt="emilasheras | python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />
+[<img align="left" alt="emilasheras | html5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/html5.svg" />
+[<img align="left" alt="emilasheras | php" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/php.svg" />
+[<img align="left" alt="emilasheras | css" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/css3.svg" />
+[<img align="left" alt="emilasheras | javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/javascript.svg" />
+[<img align="left" alt="emilasheras | cplusplus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/cplusplus.svg" />
 
 ___
 
