@@ -63,7 +63,8 @@ ___
 
 -  Responsible
 -  Group objective driven
--  
+-  Down to earth
+-  Helper
 
 ___
 
