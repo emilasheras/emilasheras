@@ -42,4 +42,4 @@ ___
 
 ##  [GITHUB STATS]
 
-<img align="left" alt="emilasheras's Github stats" src="https://github-readme-stats.emilasheras.vercel.app/api?username=emilasheras&show_icons=true&hide_border=true" />
+<img align="left" alt="emilasheras's Github stats" src="https://github-readme-stats.vercel.app/api?username=emilasheras&show_icons=true&hide_border=true" />
