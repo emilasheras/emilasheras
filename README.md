@@ -12,8 +12,6 @@ ___
 #### You can contact me at
 emilasheras.uni@gmail.com
 
-
-
 ___
 
 #  [LANGUAGES]
