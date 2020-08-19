@@ -8,25 +8,25 @@
 
 ___
 
-#  [CONTACT]
+##  [CONTACT]
 #### You can contact me at
 emilasheras.uni@gmail.com
 
 ___
 
-#  [LANGUAGES]
+##  [LANGUAGES]
 
 ___
 
-#  [EDUCATION]
+##  [EDUCATION]
 
 ___
 
-#  [EXPERIENCES]
+##  [EXPERIENCES]
 
 ___
 
-#  [QUALITIES]
+##  [QUALITIES]
 
 -  Group objective driven
 -  Responsible
@@ -34,4 +34,4 @@ ___
 
 ___
 
-#  [INTRESTS]
+##  [INTRESTS]
