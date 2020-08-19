@@ -47,7 +47,7 @@ ___
 
 ##  [STATS]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=glsl)](https://github.com/emilasheras/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=glsl,hlsl,shaderlab)](https://github.com/emilasheras/github-readme-stats)
 
 
 [twitter]: https://twitter.com/lhs_emi
