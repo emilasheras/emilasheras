@@ -47,7 +47,7 @@ ___
 
 ##  [STATS]
 
-<img align="left" alt="emilasheras's Github stats" src="https://github-readme-stats.vercel.app/api?username=emilasheras&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=glsl)](https://github.com/emilasheras/github-readme-stats)
 
 
 [twitter]: https://twitter.com/lhs_emi
