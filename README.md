@@ -48,13 +48,21 @@ ___
 ___
 
 ##  [EXPERIENCES]
-  
+
+I have worked in some game jams with little teams in different occasions and also worked in my own projects recently.
+
+-  UDAsoft event from uni - 2018 (did a little game in a month)
+
+-  Helped at a telecommunications company for a few months - 2018
+
+-  Parenthesix Experience GameJam - 2020 (did a game in a week)
+
 ___
 
 ##  [QUALITIES]
 
--  Group objective driven
 -  Responsible
+-  Group objective driven
 -  
 
 ___
