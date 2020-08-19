@@ -1,4 +1,4 @@
-## Hi there, I'm Emiliano
+## Hi there folks, I'm Emiliano working through Github!
 
 -  I’m currently working on developing my game dev and programming knowledge.
 -  I’m currently learning Python and C#.
@@ -6,12 +6,11 @@
 
 ___
 
-#### You can contact me on
+#### You can contact me at
+-  emilasheras.uni@gmail.com
 
-Gmail emilasheras.uni@gmail.com
-
-#### Some other links
+#### Other places im in
 
 [GitLab](https://github.com/Micemi/Micemi.git)
-
+[GitLab](https://github.com/Micemi/Micemi.git)
 
