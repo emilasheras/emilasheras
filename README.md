@@ -22,7 +22,7 @@ ___
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=glsl,hlsl,shaderlab)](https://github.com/emilasheras/github-readme-stats)
 I prefer working with C# or Python depending on the project and flexibility, but i also know the basics in Java, HTML, PHP, CSS (and bootstrapping), JavaScript and C++.
 
-![C#](https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/csharp.svg =22x22)
+![C#](https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/csharp.svg | width=22)
 
 ___
 
