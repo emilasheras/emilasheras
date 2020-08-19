@@ -1,14 +1,14 @@
 ## Hi there, I'm Emiliano
 
--  I’m currently working on developing my game dev,  knowledge.
+-  I’m currently working on developing my game dev and programming knowledge.
 -  I’m currently learning Python and C#.
--  Ask me about anything!
+-  Contact me and ask me about anything with the links below!
 
 ___
 
 #### You can contact me on
 
-[Gmail](https://twitter.com/lhs_emi)
+Gmail emilasheras.uni@gmail.com
 
 #### Some other links
 
