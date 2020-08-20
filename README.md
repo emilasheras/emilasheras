@@ -33,7 +33,6 @@ ___
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/cplusplus.svg" />
 </br>
 </br>
-</br>
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=glsl,hlsl,shaderlab)](https://github.com/emilasheras/github-readme-stats)
