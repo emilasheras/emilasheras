@@ -1,9 +1,12 @@
 #  Hi there, here's some info about me
 
--  I'm 20 years' old student from Mendoza, Argentina
--  Currently working on developing my game dev and programming knowledge in multiple languages
--  Also: learning Python and C#
--  Contact me and ask me anything!
+∎  I'm 20 years' old student from Mendoza, Argentina
+
+∎  Currently working on developing my game dev and programming knowledge in multiple languages
+
+∎  Also: learning Python and C#
+
+∎  Contact me and ask me anything!
 
 ___
 
@@ -17,7 +20,7 @@ ___
 
 ___
 
-##  [LANGUAGES]
+##  [PROGRAMMING LANGUAGES]
 
 ####  I prefer working with C# or Python depending on the project and flexibility, but i know some of the basics in Java, HTML, PHP, CSS (and bootstrapping), JavaScript and C++. And also have seen a little of ajax, query's and databases.
 
@@ -29,8 +32,8 @@ ___
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/javascript.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/cplusplus.svg" />
 </br>
-
-
+</br>
+</br>
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=glsl,hlsl,shaderlab)](https://github.com/emilasheras/github-readme-stats)
@@ -51,35 +54,42 @@ ___
 
 I have worked in some game jams with little teams in different occasions and also worked in my own projects recently.
 
--  UDAsoft event from uni - 2018 (did a little game in a month)
+∎  UDAsoft event from uni - 2018 (did a little game in a month)
 
--  Helped at a telecommunications company for a few months - 2018
+∎  Helped at a telecommunications company for a few months - 2018
 
--  Parenthesix Experience GameJam - 2020 (did a game in a week)
+∎  Parenthesix Experience GameJam - 2020 (did a game in a week)
 
 ___
 
 ##  [QUALITIES]
 
--  Responsible
--  Group objective driven
--  Down to earth
--  Helper
+∎  Responsible
+
+∎  Driven by group objective
+
+∎  Down to earth
+
+∎  Helper
 
 ___
 
 ##  [INTRESTS]
 
+∎  Programming
+
+∎  Game Development
+
+∎  Music
+
+∎  Meeting new people
+
+
 ___
 
 ##  [GITHUB STATS]
 
-
 [![Emiliano Las Heras's github stats](https://github-readme-stats.vercel.app/api?username=emilasheras)](https://github.com/emilasheras/github-readme-stats)
-
-
-
-
 
 
 [twitter]: https://twitter.com/lhs_emi
