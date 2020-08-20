@@ -6,6 +6,8 @@
 
 ∎  Also: learning Python and C#
 
+∎  I know english and spanish
+
 ∎  Contact me and ask me anything!
 
 ___
