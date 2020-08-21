@@ -69,9 +69,7 @@ ___
 
 ∎  Responsible
 
-∎  Driven by group objective
-
-∎  Down to earth
+∎  Focused on the group objective
 
 ∎  Helper
 
