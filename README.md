@@ -1,18 +1,13 @@
-#  Some info about me
+## info
+∎  21. Software dev. 
 
-∎  I'm 20 years' old student from Mendoza, Argentina
+∎  PHP.  Also learning JS and C#
 
-∎  Currently working on developing my game dev and programming knowledge in multiple languages
-
-∎  Also: learning Python and C#
-
-∎  I know english and spanish
-
-∎  Contact me and ask me anything!
+∎  English/Spanish
 
 ___
 
-##  [CONTACT]
+## contact
 
 <a href = "mailto: emilasheras.uni@gmail.com"><img align="left" alt="emilasheras | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" /></a>
 [<img align="left" alt="emilasheras | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />][twitter]
@@ -22,9 +17,8 @@ ___
 
 ___
 
-##  [PROGRAMMING LANGUAGES]
+## tools
 
-####  I prefer working with C# or Python depending on the project and flexibility, but i know some of the basics in Java, HTML, PHP, CSS (and bootstrapping), JavaScript and C++. And also have seen a little of ajax, query's and databases.
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/csharp.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />
@@ -41,7 +35,7 @@ ___
 
 ___
 
-##  [EDUCATION]
+## education
 
 ✦  High school completed with a bachelor's degree in computer science with mentions in robotics and programming. **(2013-2018)**
 
@@ -51,9 +45,7 @@ ___
 
 ___
 
-##  [EXPERIENCES]
-
-I have worked in some game jams with little teams in different occasions and also worked in my own projects recently.
+## experience
 
 ∎  UDAsoft event from uni - 2018 (did a little game in a month)
 
@@ -61,32 +53,9 @@ I have worked in some game jams with little teams in different occasions and als
 
 ∎  Parenthesix Experience GameJam - 2020 (did a game in a week)
 
-___
-
-##  [QUALITIES]
-
-∎  Responsible
-
-∎  Focused on the group objective
-
-∎  Helper
-
-___
-
-##  [INTRESTS]
-
-∎  Programming
-
-∎  Game Development
-
-∎  Music
-
-∎  Meeting new people
 
 
 ___
-
-##  [GITHUB STATS]
 
 [![Emiliano Las Heras's github stats](https://github-readme-stats.vercel.app/api?username=emilasheras)](https://github.com/emilasheras/github-readme-stats)
 
