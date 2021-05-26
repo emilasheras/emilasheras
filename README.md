@@ -32,6 +32,8 @@ ___
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=C%23,glsl,hlsl,shaderlab&show_icons=true&theme=merko)](https://github.com/emilasheras/github-readme-stats)
+</br>
+[![Latest Stats (Wakatime)](https://github-readme-stats.vercel.app/api/wakatime?username=Neptune&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
@@ -57,7 +59,7 @@ ___
 
 ___
 
-[![Emiliano Las Heras's github stats](https://github-readme-stats.vercel.app/api?username=emilasheras&theme=merko)](https://github.com/emilasheras/github-readme-stats)
+[![Emiliano Las Heras's github stats](https://github-readme-stats.vercel.app/api?username=emilasheras&include_all_commits=true&theme=merko)](https://github.com/emilasheras/github-readme-stats)
 
 
 [twitter]: https://twitter.com/lhs_emi
