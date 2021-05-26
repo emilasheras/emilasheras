@@ -31,7 +31,7 @@ ___
 </br>
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=C#,glsl,hlsl,shaderlab&show_icons=true&theme=merko)](https://github.com/emilasheras/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=C%23,glsl,hlsl,shaderlab&show_icons=true&theme=merko)](https://github.com/emilasheras/github-readme-stats)
 
 ___
 
