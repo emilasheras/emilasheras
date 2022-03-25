@@ -1,7 +1,7 @@
 ## info
-∎  21. Software dev. 
+∎  Age 22.
 
-∎  PHP.  Also learning JS and C#
+∎  Software Dev. PHP//CSS//JS
 
 ∎  English/Spanish
 
@@ -31,7 +31,7 @@ ___
 </br>
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=C%23,glsl,hlsl,shaderlab&show_icons=true&theme=merko)](https://github.com/emilasheras/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=C%23,glsl,hlsl,javascript,shaderlab&show_icons=true&theme=merko)](https://github.com/emilasheras/github-readme-stats)
 </br>
 [![Latest Stats (Wakatime)](https://github-readme-stats.vercel.app/api/wakatime?username=Neptune&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -43,7 +43,7 @@ ___
 
 ✦  Completed all my english courses at AMICANA with a degree. **(2012-2018)**
 
-✦  Im currently doing a degree in computer science and software development at Aconcaguas university. **(2018-x)**
+✦  Im currently doing a degree in computer science and software development at Aconcaguas university (4 years). **(2018-currently)**
 
 ___
 
@@ -51,16 +51,13 @@ ___
 
 ∎  UDAsoft event from uni - 2018 (did a little game in a month)
 
-∎  Helped at a telecommunications company for a few months - 2018
-
 ∎  Parenthesix Experience GameJam - 2020 (did a game in a week)
+
+∎  Worked one year at an internet telecomunications company - 2021-currently
 
 
 
 ___
-
-[![Emiliano Las Heras's github stats](https://github-readme-stats.vercel.app/api?username=emilasheras&include_all_commits=true&theme=merko)](https://github.com/emilasheras/github-readme-stats)
-
 
 [twitter]: https://twitter.com/lhs_emi
 [linkedin]: https://www.linkedin.com/in/emiliano-las-heras-09b13b190/
