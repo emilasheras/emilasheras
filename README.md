@@ -1,64 +1,79 @@
-## info
-∎  Age 22.
+# Info
 
-∎  Software Dev. PHP//CSS//JS
+∎ Age 23.
 
-∎  English/Spanish
+∎ Software Dev. Art.
 
-___
+∎ Argentina/Mendoza
 
-## contact
+∎ es-AR, en-US
 
-<a href = "mailto: emilasheras.uni@gmail.com"><img align="left" alt="emilasheras | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" /></a>
-[<img align="left" alt="emilasheras | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="emilasheras | Linked-In" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="emilasheras | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />][instagram]
-</br>
+---
 
-___
+# Contact
 
-## tools
+<a href = "mailto: emperorbfd@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/d79921/d79921"/></a>    <a href="https://www.instagram.com/emilasheras"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/d79921/d79921"/></a> <a href="https://twitter.com/lhs_emi"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/d79921/d79921"/></a> <a href="https://www.linkedin.com/in/emiliano-las-heras-09b13b190"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/d79921/d79921"/></a>
+
+---
 
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/csharp.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/html5.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/php.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/css3.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/javascript.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/cplusplus.svg" />
-</br>
-</br>
+<h2>Skills</h2>
+<img height="32" width="32" src="https://cdn.simpleicons.org/php/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/markdown/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/yaml/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/p5dotjs/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/d79921/d79921"/> 
+<br>
+
+<h2>Tools</h2>
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/insomnia/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/obsidian/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/figma/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/jira/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/openai/d79921/d79921"/> 
+<br>
+
+<h2>O.S.</h2>
+<img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/d79921/d79921"/> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/windows10/d79921/d79921"/> 
+<br>
+
+---
+
+<h2>Stats</h2>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=C%23,glsl,hlsl,javascript,shaderlab&show_icons=true&theme=gruvbox&card_width=495)
+![Latest Stats (Wakatime)](https://github-readme-stats.vercel.app/api/wakatime?username=Neptune&theme=gruvbox&card_width=495)
+![stats](https://github-readme-stats.vercel.app/api?username=emilasheras&show=reviews&show_icons=true&theme=gruvbox&card_width=495&count_private=true)
+
+---
+
+# Education
+
+✦ High school completed with a bachelor's degree in computer science with mentions in robotics and programming. **(2013-2018)**
+
+✦ Completed all my english courses at AMICANA with a degree. **(2012-2018)**
+
+✦ Did 4 years of computer science and software development at Aconcaguas university. **(2018-2021 unfinished)**
+
+✦ CoderHouse Web Development Career. (1 year) **(2023-currently)**
+
+---
+
+# Experience
+
+∎ UDAsoft event from uni - 2018 (did a little game in a month)
+
+∎ Parenthesix Experience GameJam - 2020 (did a game in a week)
+
+∎ Working at the software department in an Interner Service Provider company - **(2021-currently)**
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=C%23,glsl,hlsl,javascript,shaderlab&show_icons=true&theme=merko)](https://github.com/emilasheras/github-readme-stats)
-</br>
-[![Latest Stats (Wakatime)](https://github-readme-stats.vercel.app/api/wakatime?username=Neptune&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-___
-
-## education
-
-✦  High school completed with a bachelor's degree in computer science with mentions in robotics and programming. **(2013-2018)**
-
-✦  Completed all my english courses at AMICANA with a degree. **(2012-2018)**
-
-✦  Im currently doing a degree in computer science and software development at Aconcaguas university (4 years). **(2018-currently)**
-
-___
-
-## experience
-
-∎  UDAsoft event from uni - 2018 (did a little game in a month)
-
-∎  Parenthesix Experience GameJam - 2020 (did a game in a week)
-
-∎  Worked one year at an internet telecomunications company - 2021-currently
-
-
-
-___
-
-[twitter]: https://twitter.com/lhs_emi
-[linkedin]: https://www.linkedin.com/in/emiliano-las-heras-09b13b190/
-[instagram]: https://www.instagram.com/emilasheras
+---
