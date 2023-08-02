@@ -18,7 +18,8 @@
 
 
 <h2>Skills</h2>
-<img height="32" width="32" src="https://cdn.simpleicons.org/php/d79921/d79921"/> 
+<div>
+<img height="32" width="32" src="https://cdn.simpleicons.org/php/d79921/d79921"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/d79921/d79921"/> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/d79921/d79921"/> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3/d79921/d79921"/> 
@@ -28,9 +29,12 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/yaml/d79921/d79921"/> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/p5dotjs/d79921/d79921"/> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/d79921/d79921"/> 
+</div>
+
 <br>
 
 <h2>Tools</h2>
+<div>
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/d79921/d79921"/> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/insomnia/d79921/d79921"/> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker/d79921/d79921"/> 
@@ -38,11 +42,15 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/figma/d79921/d79921"/> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/jira/d79921/d79921"/> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/openai/d79921/d79921"/> 
+</div>
+
 <br>
 
 <h2>O.S.</h2>
+<div>
 <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/d79921/d79921"/> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/windows10/d79921/d79921"/> 
+</div>
 <br>
 
 ---
