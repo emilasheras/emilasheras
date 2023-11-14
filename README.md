@@ -58,7 +58,6 @@
 <h2>Stats</h2>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilasheras&hide=C%23,glsl,hlsl,javascript,shaderlab&show_icons=true&theme=gruvbox&card_width=495)
-![Latest Stats (Wakatime)](https://github-readme-stats.vercel.app/api/wakatime?username=Neptune&theme=gruvbox&card_width=495)
 ![stats](https://github-readme-stats.vercel.app/api?username=emilasheras&show=reviews&show_icons=true&theme=gruvbox&card_width=495&count_private=true)
 
 ---
